@@ -18,6 +18,7 @@
 
 ; Ignore metro
 .*/node_modules/metro/.*
+.*/flow-typed/.*
 
 [include]
 
@@ -25,7 +26,6 @@
 node_modules/react-native/Libraries/react-native/react-native-interface.js
 node_modules/react-native/flow/
 node_modules/react-native/flow-github/
-./flow-typed
 
 [options]
 emoji=true

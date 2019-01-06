@@ -5,6 +5,8 @@ module.exports = {
     'plugin:flowtype/recommended',
     'prettier/flowtype',
   ],
+  plugins: ['flowtype'],
+  parser: 'babel-eslint',
   rules: {
     'prettier/prettier': [
       2,
