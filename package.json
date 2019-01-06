@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
+    "lint": "./node_modules/.bin/eslint .",
     "test": "jest"
   },
   "dependencies": {
@@ -25,7 +26,7 @@
     "eslint-plugin-react": "^7.12.3",
     "flow-bin": "0.78.0",
     "husky": "^1.3.1",
-    "jest": "23.6.0",
+    "jest": "^23.6.0",
     "lint-staged": "^8.1.0",
     "metro-react-native-babel-preset": "0.51.1",
     "prettier": "1.15.3",
