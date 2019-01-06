@@ -1,0 +1,622 @@
+{
+  "/Users/seniorconsultant/Documents/ToDo/app/redux/combineReducers.js": {
+    "path": "/Users/seniorconsultant/Documents/ToDo/app/redux/combineReducers.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 42 },
+        "end": { "line": 1, "column": 97 }
+      },
+      "1": {
+        "start": { "line": 1, "column": 98 },
+        "end": { "line": 1, "column": 160 }
+      },
+      "2": {
+        "start": { "line": 1, "column": 160 },
+        "end": { "line": 1, "column": 185 }
+      },
+      "3": {
+        "start": { "line": 2, "column": 13 },
+        "end": { "line": 2, "column": 29 }
+      },
+      "4": {
+        "start": { "line": 4, "column": 20 },
+        "end": { "line": 4, "column": 75 }
+      },
+      "5": {
+        "start": { "line": 5, "column": 31 },
+        "end": { "line": 5, "column": 108 }
+      },
+      "6": {
+        "start": { "line": 7, "column": 0 },
+        "end": { "line": 9, "column": 55 }
+      },
+      "7": {
+        "start": { "line": 9, "column": 56 },
+        "end": { "line": 9, "column": 83 }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": { "0": 1, "1": 1, "2": 1, "3": 1, "4": 1, "5": 1, "6": 1, "7": 1 },
+    "f": {},
+    "b": {},
+    "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
+    "hash": "f6778e9001b7cbb3770b406f82a7b383a0a94992"
+  },
+  "/Users/seniorconsultant/Documents/ToDo/app/redux/todos/actionTodos.js": {
+    "path": "/Users/seniorconsultant/Documents/ToDo/app/redux/todos/actionTodos.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 13 },
+        "end": { "line": 1, "column": 75 }
+      },
+      "1": {
+        "start": { "line": 1, "column": 75 },
+        "end": { "line": 1, "column": 121 }
+      },
+      "2": {
+        "start": { "line": 2, "column": 20 },
+        "end": { "line": 2, "column": 45 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 17 },
+        "end": { "line": 4, "column": 18 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 14 },
+        "end": { "line": 9, "column": 18 }
+      },
+      "5": {
+        "start": { "line": 6, "column": 38 },
+        "end": { "line": 9, "column": 17 }
+      },
+      "6": {
+        "start": { "line": 9, "column": 19 },
+        "end": { "line": 9, "column": 45 }
+      },
+      "7": {
+        "start": { "line": 12, "column": 17 },
+        "end": { "line": 14, "column": 14 }
+      },
+      "8": {
+        "start": { "line": 12, "column": 42 },
+        "end": { "line": 14, "column": 13 }
+      },
+      "9": {
+        "start": { "line": 14, "column": 15 },
+        "end": { "line": 14, "column": 47 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "addTodo",
+        "decl": {
+          "start": { "line": 6, "column": 23 },
+          "end": { "line": 6, "column": 30 }
+        },
+        "loc": {
+          "start": { "line": 6, "column": 37 },
+          "end": { "line": 9, "column": 18 }
+        },
+        "line": 6
+      },
+      "1": {
+        "name": "toggleTodo",
+        "decl": {
+          "start": { "line": 12, "column": 26 },
+          "end": { "line": 12, "column": 36 }
+        },
+        "loc": {
+          "start": { "line": 12, "column": 41 },
+          "end": { "line": 14, "column": 14 }
+        },
+        "line": 12
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 3,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    },
+    "f": { "0": 3, "1": 1 },
+    "b": {},
+    "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
+    "hash": "a4abdc84f61b76e4325b70711833e6a55fba6e8e"
+  },
+  "/Users/seniorconsultant/Documents/ToDo/app/redux/todos/reducerTodos.js": {
+    "path": "/Users/seniorconsultant/Documents/ToDo/app/redux/todos/reducerTodos.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 42 },
+        "end": { "line": 1, "column": 97 }
+      },
+      "1": {
+        "start": { "line": 1, "column": 98 },
+        "end": { "line": 1, "column": 160 }
+      },
+      "2": {
+        "start": { "line": 1, "column": 160 },
+        "end": { "line": 1, "column": 226 }
+      },
+      "3": {
+        "start": { "line": 1, "column": 252 },
+        "end": { "line": 1, "column": 327 }
+      },
+      "4": {
+        "start": { "line": 1, "column": 349 },
+        "end": { "line": 1, "column": 419 }
+      },
+      "5": {
+        "start": { "line": 2, "column": 15 },
+        "end": { "line": 2, "column": 25 }
+      },
+      "6": {
+        "start": { "line": 2, "column": 26 },
+        "end": { "line": 2, "column": 54 }
+      },
+      "7": {
+        "start": { "line": 3, "column": 18 },
+        "end": { "line": 3, "column": 31 }
+      },
+      "8": {
+        "start": { "line": 3, "column": 32 },
+        "end": { "line": 3, "column": 66 }
+      },
+      "9": {
+        "start": { "line": 5, "column": 17 },
+        "end": { "line": 8, "column": 24 }
+      },
+      "10": {
+        "start": { "line": 5, "column": 48 },
+        "end": { "line": 8, "column": 23 }
+      },
+      "11": {
+        "start": { "line": 11, "column": 17 },
+        "end": { "line": 12, "column": 122 }
+      },
+      "12": {
+        "start": { "line": 11, "column": 49 },
+        "end": { "line": 12, "column": 121 }
+      },
+      "13": {
+        "start": { "line": 12, "column": 28 },
+        "end": { "line": 12, "column": 117 }
+      },
+      "14": {
+        "start": { "line": 14, "column": 12 },
+        "end": { "line": 23, "column": 1 }
+      },
+      "15": {
+        "start": { "line": 14, "column": 42 },
+        "end": { "line": 14, "column": 112 }
+      },
+      "16": {
+        "start": { "line": 14, "column": 126 },
+        "end": { "line": 14, "column": 173 }
+      },
+      "17": {
+        "start": { "line": 15, "column": 2 },
+        "end": { "line": 21, "column": 20 }
+      },
+      "18": {
+        "start": { "line": 17, "column": 6 },
+        "end": { "line": 17, "column": 102 }
+      },
+      "19": {
+        "start": { "line": 19, "column": 6 },
+        "end": { "line": 19, "column": 42 }
+      },
+      "20": {
+        "start": { "line": 21, "column": 6 },
+        "end": { "line": 21, "column": 19 }
+      },
+      "21": {
+        "start": { "line": 25, "column": 0 },
+        "end": { "line": 25, "column": 5 }
+      },
+      "22": {
+        "start": { "line": 25, "column": 6 },
+        "end": { "line": 25, "column": 33 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "createTodo",
+        "decl": {
+          "start": { "line": 5, "column": 26 },
+          "end": { "line": 5, "column": 36 }
+        },
+        "loc": {
+          "start": { "line": 5, "column": 47 },
+          "end": { "line": 8, "column": 24 }
+        },
+        "line": 5
+      },
+      "1": {
+        "name": "toggleTodo",
+        "decl": {
+          "start": { "line": 11, "column": 26 },
+          "end": { "line": 11, "column": 36 }
+        },
+        "loc": {
+          "start": { "line": 11, "column": 48 },
+          "end": { "line": 12, "column": 122 }
+        },
+        "line": 11
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 12, "column": 14 },
+          "end": { "line": 12, "column": 15 }
+        },
+        "loc": {
+          "start": { "line": 12, "column": 27 },
+          "end": { "line": 12, "column": 118 }
+        },
+        "line": 12
+      },
+      "3": {
+        "name": "todos",
+        "decl": {
+          "start": { "line": 14, "column": 21 },
+          "end": { "line": 14, "column": 26 }
+        },
+        "loc": {
+          "start": { "line": 14, "column": 29 },
+          "end": { "line": 23, "column": 1 }
+        },
+        "line": 14
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 12, "column": 35 },
+          "end": { "line": 12, "column": 116 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 12, "column": 49 },
+            "end": { "line": 12, "column": 50 }
+          },
+          {
+            "start": { "line": 12, "column": 53 },
+            "end": { "line": 12, "column": 116 }
+          }
+        ],
+        "line": 12
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 14, "column": 42 },
+          "end": { "line": 14, "column": 112 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 14, "column": 95 },
+            "end": { "line": 14, "column": 107 }
+          },
+          {
+            "start": { "line": 14, "column": 110 },
+            "end": { "line": 14, "column": 112 }
+          }
+        ],
+        "line": 14
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 14, "column": 42 },
+          "end": { "line": 14, "column": 92 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 14, "column": 42 },
+            "end": { "line": 14, "column": 62 }
+          },
+          {
+            "start": { "line": 14, "column": 66 },
+            "end": { "line": 14, "column": 92 }
+          }
+        ],
+        "line": 14
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 14, "column": 126 },
+          "end": { "line": 14, "column": 173 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 14, "column": 149 },
+            "end": { "line": 14, "column": 161 }
+          },
+          {
+            "start": { "line": 14, "column": 164 },
+            "end": { "line": 14, "column": 173 }
+          }
+        ],
+        "line": 14
+      },
+      "4": {
+        "loc": {
+          "start": { "line": 15, "column": 2 },
+          "end": { "line": 21, "column": 20 }
+        },
+        "type": "switch",
+        "locations": [
+          {
+            "start": { "line": 16, "column": 4 },
+            "end": { "line": 17, "column": 102 }
+          },
+          {
+            "start": { "line": 18, "column": 4 },
+            "end": { "line": 19, "column": 42 }
+          },
+          {
+            "start": { "line": 20, "column": 4 },
+            "end": { "line": 21, "column": 19 }
+          }
+        ],
+        "line": 15
+      }
+    },
+    "s": {
+      "0": 2,
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 3,
+      "11": 2,
+      "12": 1,
+      "13": 2,
+      "14": 2,
+      "15": 8,
+      "16": 8,
+      "17": 8,
+      "18": 3,
+      "19": 1,
+      "20": 4,
+      "21": 2,
+      "22": 2
+    },
+    "f": { "0": 3, "1": 1, "2": 2, "3": 8 },
+    "b": { "0": [1, 1], "1": [4, 4], "2": [8, 8], "3": [8, 0], "4": [3, 1, 4] },
+    "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
+    "hash": "6d977ea13af3f7eed62ca44ed797e194c29eb013"
+  },
+  "/Users/seniorconsultant/Documents/ToDo/app/redux/visibilityFilter/actionVisibilityFilter.js": {
+    "path": "/Users/seniorconsultant/Documents/ToDo/app/redux/visibilityFilter/actionVisibilityFilter.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 13 },
+        "end": { "line": 1, "column": 75 }
+      },
+      "1": {
+        "start": { "line": 1, "column": 75 },
+        "end": { "line": 1, "column": 130 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 31 },
+        "end": { "line": 3, "column": 67 }
+      },
+      "3": {
+        "start": { "line": 5, "column": 26 },
+        "end": { "line": 9, "column": 25 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 9 },
+        "end": { "line": 9, "column": 24 }
+      },
+      "5": {
+        "start": { "line": 9, "column": 26 },
+        "end": { "line": 9, "column": 76 }
+      },
+      "6": {
+        "start": { "line": 12, "column": 0 },
+        "end": { "line": 12, "column": 19 }
+      },
+      "7": {
+        "start": { "line": 12, "column": 20 },
+        "end": { "line": 12, "column": 47 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "setVisibilityFilter",
+        "decl": {
+          "start": { "line": 5, "column": 35 },
+          "end": { "line": 5, "column": 54 }
+        },
+        "loc": {
+          "start": { "line": 6, "column": 8 },
+          "end": { "line": 9, "column": 25 }
+        },
+        "line": 6
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 1, "2": 1, "3": 1, "4": 1, "5": 1, "6": 1, "7": 1 },
+    "f": { "0": 1 },
+    "b": {},
+    "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
+    "hash": "a649c849c2567017554b8ebf66775b8fdd88c9fb"
+  },
+  "/Users/seniorconsultant/Documents/ToDo/app/redux/visibilityFilter/reducerVisibilityFilter.js": {
+    "path": "/Users/seniorconsultant/Documents/ToDo/app/redux/visibilityFilter/reducerVisibilityFilter.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 13 },
+        "end": { "line": 1, "column": 75 }
+      },
+      "1": {
+        "start": { "line": 1, "column": 75 },
+        "end": { "line": 1, "column": 132 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 28 },
+        "end": { "line": 3, "column": 51 }
+      },
+      "3": {
+        "start": { "line": 3, "column": 52 },
+        "end": { "line": 3, "column": 106 }
+      },
+      "4": {
+        "start": { "line": 5, "column": 23 },
+        "end": { "line": 15, "column": 1 }
+      },
+      "5": {
+        "start": { "line": 8, "column": 13 },
+        "end": { "line": 8, "column": 91 }
+      },
+      "6": {
+        "start": { "line": 8, "column": 105 },
+        "end": { "line": 8, "column": 152 }
+      },
+      "7": {
+        "start": { "line": 9, "column": 2 },
+        "end": { "line": 13, "column": 20 }
+      },
+      "8": {
+        "start": { "line": 11, "column": 6 },
+        "end": { "line": 11, "column": 27 }
+      },
+      "9": {
+        "start": { "line": 13, "column": 6 },
+        "end": { "line": 13, "column": 19 }
+      },
+      "10": {
+        "start": { "line": 17, "column": 0 },
+        "end": { "line": 17, "column": 16 }
+      },
+      "11": {
+        "start": { "line": 17, "column": 17 },
+        "end": { "line": 17, "column": 44 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "visibilityFilter",
+        "decl": {
+          "start": { "line": 5, "column": 32 },
+          "end": { "line": 5, "column": 48 }
+        },
+        "loc": {
+          "start": { "line": 8, "column": 0 },
+          "end": { "line": 15, "column": 1 }
+        },
+        "line": 8
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 8, "column": 13 },
+          "end": { "line": 8, "column": 91 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 8, "column": 66 },
+            "end": { "line": 8, "column": 78 }
+          },
+          {
+            "start": { "line": 8, "column": 81 },
+            "end": { "line": 8, "column": 91 }
+          }
+        ],
+        "line": 8
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 8, "column": 13 },
+          "end": { "line": 8, "column": 63 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 8, "column": 13 },
+            "end": { "line": 8, "column": 33 }
+          },
+          {
+            "start": { "line": 8, "column": 37 },
+            "end": { "line": 8, "column": 63 }
+          }
+        ],
+        "line": 8
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 8, "column": 105 },
+          "end": { "line": 8, "column": 152 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 8, "column": 128 },
+            "end": { "line": 8, "column": 140 }
+          },
+          {
+            "start": { "line": 8, "column": 143 },
+            "end": { "line": 8, "column": 152 }
+          }
+        ],
+        "line": 8
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 9, "column": 2 },
+          "end": { "line": 13, "column": 20 }
+        },
+        "type": "switch",
+        "locations": [
+          {
+            "start": { "line": 10, "column": 4 },
+            "end": { "line": 11, "column": 27 }
+          },
+          {
+            "start": { "line": 12, "column": 4 },
+            "end": { "line": 13, "column": 19 }
+          }
+        ],
+        "line": 9
+      }
+    },
+    "s": {
+      "0": 2,
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 5,
+      "6": 5,
+      "7": 5,
+      "8": 1,
+      "9": 4,
+      "10": 2,
+      "11": 2
+    },
+    "f": { "0": 5 },
+    "b": { "0": [0, 5], "1": [5, 5], "2": [5, 0], "3": [1, 4] },
+    "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
+    "hash": "cdeeedfe8a9e47e4fbaf8152ec1b61bca31484b9"
+  }
+}

@@ -15,5 +15,9 @@ module.exports = {
       },
     ],
     'react/jsx-filename-extension': 'off',
+    'no-plusplus': 'off',
+  },
+  env: {
+    jest: true,
   },
 };
