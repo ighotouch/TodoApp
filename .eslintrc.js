@@ -5,6 +5,8 @@ module.exports = {
     'plugin:flowtype/recommended',
     'prettier/flowtype',
   ],
+  plugins: ['flowtype'],
+  parser: 'babel-eslint',
   rules: {
     'prettier/prettier': [
       2,
@@ -15,5 +17,9 @@ module.exports = {
       },
     ],
     'react/jsx-filename-extension': 'off',
+    'no-plusplus': 'off',
+  },
+  env: {
+    jest: true,
   },
 };

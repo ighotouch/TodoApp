@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1546844073331" clover="3.2.0">
+  <project timestamp="1546844073331" name="All files">
+    <metrics statements="39" coveredstatements="39" conditionals="19" coveredconditionals="16" methods="8" coveredmethods="8" elements="66" coveredelements="63" complexity="0" loc="39" ncloc="39" packages="3" files="5" classes="5">
+      <package name="redux">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="combineReducers.js" path="/Users/seniorconsultant/Documents/ToDo/app/redux/combineReducers.js">
+          <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="redux.todos">
+        <metrics statements="19" coveredstatements="19" conditionals="11" coveredconditionals="10" methods="6" coveredmethods="6"/>
+        <file name="actionTodos.js" path="/Users/seniorconsultant/Documents/ToDo/app/redux/todos/actionTodos.js">
+          <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="6" count="3" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="12" count="1" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+        </file>
+        <file name="reducerTodos.js" path="/Users/seniorconsultant/Documents/ToDo/app/redux/todos/reducerTodos.js">
+          <metrics statements="12" coveredstatements="12" conditionals="11" coveredconditionals="10" methods="4" coveredmethods="4"/>
+          <line num="1" count="2" type="stmt"/>
+          <line num="2" count="2" type="stmt"/>
+          <line num="3" count="2" type="stmt"/>
+          <line num="5" count="3" type="stmt"/>
+          <line num="11" count="2" type="stmt"/>
+          <line num="12" count="2" type="cond" truecount="2" falsecount="0"/>
+          <line num="14" count="8" type="cond" truecount="5" falsecount="1"/>
+          <line num="15" count="8" type="cond" truecount="3" falsecount="0"/>
+          <line num="17" count="3" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="21" count="4" type="stmt"/>
+          <line num="25" count="2" type="stmt"/>
+        </file>
+      </package>
+      <package name="redux.visibilityFilter">
+        <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <file name="actionVisibilityFilter.js" path="/Users/seniorconsultant/Documents/ToDo/app/redux/visibilityFilter/actionVisibilityFilter.js">
+          <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="12" count="1" type="stmt"/>
+        </file>
+        <file name="reducerVisibilityFilter.js" path="/Users/seniorconsultant/Documents/ToDo/app/redux/visibilityFilter/reducerVisibilityFilter.js">
+          <metrics statements="8" coveredstatements="8" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+          <line num="1" count="2" type="stmt"/>
+          <line num="3" count="2" type="stmt"/>
+          <line num="5" count="2" type="stmt"/>
+          <line num="8" count="5" type="cond" truecount="4" falsecount="2"/>
+          <line num="9" count="5" type="cond" truecount="2" falsecount="0"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="13" count="4" type="stmt"/>
+          <line num="17" count="2" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
